@@ -4,7 +4,7 @@ Numerical implementation of the SSI-DATA method based on the original formulatio
 
 ## References
 
-ALLEMANG, R. J.; BROWN, D. L. (1982). A Correlation Coefficient for Modal Vector Analysis. In: Proceedings of the 1st International Modal Analysis Conference (IMAC), USA, p. 110-116. 
+ALLEMANG, R. J.; BROWN, D. L. (1982). A Correlation Coefficient for Modal Vector Analysis. Proceedings of the 1st International Modal Analysis Conference (IMAC), USA, p. 110-116. 
 
 CARINI, M. R. (2021). Identificação das Propriedades Dinâmicas de Estruturas submetidas a Ações Ambientais. Doctoral Thesis, Federal University of Rio Grande do Sul, Brazil.
 
