@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7348687.svg)](https://doi.org/10.5281/zenodo.7348687)
+
 # Data-driven stochastic subspace identification (SSI-DATA)
 
 Numerical implementation of the SSI-DATA method for system identification from the structural response (acceleration, velocity, and displacement). The formulation is based on the work of Van Overschee and De Moor (1996) and on adaptations by Peeters (2000) and Fadel Miguel (2007). The Matlab codes include the application of the Modal Assurance Criterion (MAC) and the stabilization diagram to determine stable modes.
