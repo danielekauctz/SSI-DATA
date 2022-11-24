@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7348687.svg)](https://doi.org/10.5281/zenodo.7348687)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7352986.svg)](https://doi.org/10.5281/zenodo.7352986)
 
 # Data-driven stochastic subspace identification (SSI-DATA)
 
